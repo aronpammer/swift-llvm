@@ -113,6 +113,7 @@ add_llvm_library(LLVMSupport
   TarWriter.cpp
   TargetParser.cpp
   ThreadPool.cpp
+  TimeProfiler.cpp
   Timer.cpp
   ToolOutputFile.cpp
   TrigramIndex.cpp
